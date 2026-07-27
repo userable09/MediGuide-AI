@@ -6,9 +6,10 @@ MediGuide AI is a full-stack health education and medication safety web applicat
 
 ## 📸 Screenshots
 
-![Screenshot 1](./Screenshot 2026-07-27 210649.png)
-![Screenshot 2](./Screenshot 2026-07-27 210649.png)
-![Screenshot 3](./Screenshot 2026-07-27 210649.png
+![Screenshot 1](./screenshot-1.png)
+![Screenshot 2](./screenshot-2.png)
+![Screenshot 3](./screenshot-3.png)
+
 ---
 
 ## 🌟 Key Features
