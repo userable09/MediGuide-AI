@@ -3,6 +3,9 @@
 MediGuide AI is a full-stack health education and medication safety web application powered by **Groq API (Llama 3.3 70B)** and **Google Gemini AI**. Designed with a soothing **Natural Tones** aesthetic (organic teal and emerald palette), MediGuide AI provides instant, reliable, and clinical-grade educational dossiers for drugs, multi-drug interaction safety matrix analysis, symptom & side-effect evaluations, first aid guidance, and local browser pill reminders.
 
 ---
+## Live App
+**Link**: https://medi-guide-ai-mu.vercel.app/
+---
 
 ## 📸 Screenshots
 
