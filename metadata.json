@@ -1,0 +1,6 @@
+{
+  "name": "MediGuide AI",
+  "description": "Intelligent Medication Information & Safety Assistant providing educational medication lookup, drug interactions, side effects analyzer, first aid AI guidance, and medication reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
